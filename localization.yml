@@ -459,7 +459,7 @@ AIRDROP_SPAWN_CANCEL:
 AIRDROP_NO_SUCCESS_TIME: '§7[§6§lАирДроп§7] §fЧтобы сломать аирдроп, вам нужно простоять рядом с ним §e2 минуты§f. Но учтите, если вы отойдете от аирдропа дальше, чем §с5 блоков§а, время сбросится!'
 AIRDROP_SPAWN_JOIN_PLAYER: '§7[§6§lАирДроп§7] §fНа карте упал аирдроп! §fX: §a§l%s§f, Y: §a§l%s§f, §fZ: §a§l%s'
 
-JOIN_MESSAGE_GUI_NAME: '§8Сообщения при входе'
+JOIN_MESSAGES_GUI_NAME: '§8Сообщения при входе'
 JOIN_MESSAGE_GUI_ITEM_NAME: '§6§lСообщение при входе #%s'
 JOIN_MESSAGE_GUI_SELECTED_LORE:
 - ''
