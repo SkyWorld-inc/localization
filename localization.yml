@@ -420,7 +420,7 @@ AIRDROP_SPAWN_1200_TICK_BROADCAST:
   - '§5'
 AIRDROP_SPAWN_1500_TICK_BROADCAST:
   - '§r'
-  - ' §b§l▌ §c§lВнимание! §fЧерез §e§l5 §aмин §fупадет'
+  - ' §b§l▌ §c§lВнимание! §fЧерез §e§l5 §eмин §fупадет'
   - ' §b§l▌ §fАирдроп, сломайте его и получите §eдонат-коины'
   - '§5'
 AIRDROP_SPAWN_BROADCAST:
