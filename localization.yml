@@ -425,9 +425,10 @@ AIRDROP_SPAWN_1500_TICK_BROADCAST:
   - '§5'
 AIRDROP_SPAWN_BROADCAST:
   - '§r'
-  - ' §b§l▌ §c§lВнимание! §fНа карте упад аирдроп'
+  - ' §b§l▌ §c§lВнимание! §fНа карте упал аирдроп'
   - ' §b§l▌ §fСломайте его и получите §eдонат-коины'
   - ' §b§l▌ §fX: §e§l%s§f, Y: §e§l%s§f, §fZ: §e§l%s'
+  - ' §b§l▌ §fПодробная информация: §e§l/ＲＵＢ'
   - '§5'
 AIRDROP_REMOVE_BROADCAST:
   - '§r'
@@ -439,6 +440,7 @@ AIRDROP_BREAK_BROADCAST:
   - ' §b§l▌ §c§lВнимание! §fАирдроп был сломан'
   - ' §b§l▌ §fИгроком §e%s §fи в награду'
   - ' §b§l▌ §fон получил §e30 рублей§f. Молодец!'
+  - ' §b§l▌ §fПодробная информация: §e§l/ＲＵＢ'
   - '§5'
 AIRDROP_SPAWN_CANCEL:
   - '§r'
