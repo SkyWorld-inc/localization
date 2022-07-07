@@ -496,3 +496,106 @@ SPAWNERS_GUI_GET_SPAWNER_NO_COMPLETE_NAME: '§c§lВыполните все кв
 SPAWNERS_QUEST_COMPLETE: '§f[§b§lСпавнеры§f] Вы успешно §aзавершили §fзадание §7"§e%s§7" §7(Айди спавнера: §s)'
 SPAWNERS_SPAWN_COMPLETE: '§f[§b§lСпавнеры§f] Вы успешно §aзавершили §fвсе задания, теперь вы можете получить спавнер §7(Айди спавнера: %s)'
 SPAWNERS_GET_SPAWNER_COMPLETE: '§f[§b§lСпавнеры§f] Вы успешно §aполучили §fспавнер. Приятной игры :>'
+
+#AUCTION
+ABSENT: Отсутствует
+SELL_NO_PERMS: §6§lАукцион §8| §fПродажа предметов доступна от привилегии %s
+AUCTION_ANOTHER_LOCATION: §6§lАукцион §8| §fИспользование аукциона не на §c/warp ah
+  §fдоступно от привилегии %s
+SHOP_ANOTHER_LOCATION: §6§lАукцион §8| §fИспользование магазина не на §c/warp ah §fдоступно
+  от привилегии %s'
+AUCTION_HELP_ITEM_NAME: §6§lПомощь
+AUCTION_HELP_ITEM_LORE:
+- ''
+- ' §8▪ §fПродать предмет: §a/ah sell [цена] [кол-во]'
+- ' §8▪ §fПосмотреть, что продает игрок: §a/ah show [ник]'
+AUCTION_MAINGUI_NAME: Аукцион
+AUCTION_GUI_NAME: Мои предметы
+AUCTION_GUI_SELL_NAME: Продажа
+AUCTION_GUI_BUY_NAME: Покупка
+AUCTION_PLAYERGUI_NAME: Аукцион %s
+AUCTION_FORMAT_NO_ARGS: '§6§lАукцион §8| §fПродать предмет: §a/ah sell [цена] [кол-во]'
+AUCTION_SELL_AIR: §6§lАукцион §8| §fОшибка, вы §cне можете §fпродавать воздух
+AUCTION_COMMAND_ERROR: §6§lАукцион §8| §fОшибка, цена введена неверно
+AUCTION_COMMAND_ERROR1: §6§lАукцион §8| §fОшибка, цена и кол-во предмета не может быть равно нулю или ниже
+AUCTION_COMMAND_ERROR2: §6§lАукцион §8| §fОшибка, кол-во предметов для продажи введено неверно
+AUCTION_COMMAND_ERROR3: §6§lАукцион §8| §fОшибка, вы не можете продать данный предмет, пока он находится во второй руке
+AUCTION_ADD_TO_SELL: §6§lАукцион §8| §fПредмет §6%s §fбыл выложен на продажу за §e%s§6⛂
+AUCTION_ADD_TO_SELL_ERROR: §6§lАукцион §8| §fОшибка, в вашей руке недостаточное кол-во предметов
+AUCTION_ITEM_ALLREADY_SELLED: §6§lАукцион §8| §fОшибка, предмет был продан
+AUCTION_NO_MONEY: §6§lАукцион §8| §fОшибка, у вас недостаточно денег для покупки предмета
+AUCTION_BUY_YOU_ERROR: §6§lАукцион §8| §fОшибка, вы не можете покупать свои предметы
+AUCTION_BUY: §6§lАукцион §8| §fВы успешно купили §7%s §fx §7%s §fза §a%s$
+AUCTION_BUY_SELLER: §6§lАукцион §8| §fИгрок %s §fкупил у вас §7%s §fx §7%s §fза §a%s
+AUCTION_LIMIT_ERROR: '§6§lАукцион §8| §fОшибка, вы достигли лимита по количеству продаваемых предметов: §c%s'
+AUCTION_SHOW_ERROR: §6§lАукцион §8| §fОшибка, у игрока %s §fнет активных товаров на продаже
+AUCTION_TYPE_ARMOR_NAME: Броня
+AUCTION_TYPE_WEAPON_NAME: Оружие
+AUCTION_TYPE_TOOLS_NAME: Инструменты
+AUCTION_TYPE_FOOD_NAME: Еда
+AUCTION_TYPE_POTION_NAME: Зелья
+AUCTION_TYPE_BLOCKS_NAME: Блоки
+AUCTION_TYPE_ENCHANTING_NAME: Зачарования
+AUCTION_TYPE_RESOURCES_NAME: Ресурсы
+AUCTION_TYPE_FARMING_NAME: Растения
+AUCTION_TYPE_OTHER_NAME: Остальное
+AUCTION_TYPE_ALL_NAME: Все
+AUCTION_NO_ITEMS_NAME: '§c§lНичего не найдено'
+AUCTION_CATEGORY_NAME: '§d§lТекующая категория предметов'
+AUCTION_ACCEPT_LORE_NO:
+- ''
+- ' §fОтменить действие'
+- ''
+- §c▸ §c§lНажмите§7, чтобы отменить покупку'
+AUCTION_MYGUI_ITEM_NAME: §a§lМои товары
+AUCTION_MYGUI_ITEM_LORE:
+- ''
+- ' §7Открыть список моих товаров,'
+- ' §7которые выставленны на продажу'
+- ''
+- §a▸ §a§lНажмите§7, чтобы открыть список
+AUCTION_CATEGORY_LORE:
+- ''
+- ' §7В данный момент вы включили'
+- ' §7отображение предметов: §b%s'
+- ''
+- §a▸ §a§lНажмите§7, чтобы сменить категорию
+AUCTION_NO_ITEMS_LORE:
+- ''
+- ' §7Кажется, предметы отсутствуют'
+AUCTION_REMOVED_ITEM: §6§lАукцион §8| §fВы успешно сняли предмет с аукциона
+AUCTION_LORE_MYGUI:
+- ''
+- ' §8▪ §fЦена продажи: §e%s§6⛂'
+- ' §8▪ §fИстекает через:'
+- '   §c%s'
+- ''
+- §a▸ §a§lНажмите [ПКМ]§7, чтобы снять с продажи
+AUCTION_NO_AUCTION: Снят с продажи
+AUCTION_SUB_TYPE_LORE:
+- ''
+- ' §7Отсортировать все предметы'
+- ' §7по данному типу'
+- ''
+- §a▸ §a§lНажмите§7, чтобы выбрать этот тип
+AUCTION_COMMAND_HELP:
+- '§6§lАукцион §8| §fОткрыть аукцион: §a/ah'
+- '§6§lАукцион §8| §fПродать предмет: §a/ah sell [цена] [кол-во]'
+- '§6§lАукцион §8| §fПосмотреть, что продает игрок: §a/ah show [ник]'
+AUCTION_CONFIRMED_GUI: Подтверждение покупки
+AUCTION_CONFIRMED_GUI_LORE:
+- ''
+- ' §fВы уверены, что хотите'
+- ' §fкупить §7%s §fx §7%s'
+- ' §fза §e%s§6⛂ §fу игрока §7%s'
+- ''
+- §a▸ §a§lНажмите§7, чтобы подтвердить покупку'
+AUCTION_LORE_ITEM:
+- ''
+- ' §8▪ §fПродавец: §6%s'
+- ' §8▪ §fЦена продажи: §e%s§6⛂'
+- ' §8▪ §fИстекает через:'
+- '   §c%s'
+- ''
+- §a▸ §a§lНажмите [ЛКМ]§7, чтобы купить
+- §e▸ §e§lНажмите [ПКМ]§7, чтобы открыть меню продавца
