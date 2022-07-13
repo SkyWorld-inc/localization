@@ -483,7 +483,7 @@ SPAWNERS_GUI_QUEST_ITEM_LORE:
 SPAWNERS_GUI_COMPLETE_QUEST_ITEM_NAME: '§a§l%s'
 SPAWNERS_GUI_COMPLETE_QUEST_ITEM_LORE:
   - ''
-  - ' §6Задание:'
+  - ' §bЗадание:'
   - '   §fВаша задача §e§n%s§f, чтобы выполнить квест'
   - '   §fВыполнено: §a%s§8/§a%s'
   - ''
