@@ -17,6 +17,10 @@ PAGE_NEXT_NAME: '§a§lСледующая страница §a→'
 PAGE_NEXT_LORE:
 - '§7Нажмите, чтобы перейти на'
 - '§7следующую страницу'
+PROFILE_BACK_ITEM_NAME: '§a← §a§lПредыдущая страница'
+PROFILE_BACK_ITEM_LORE2:
+- '§7Нажмите, чтобы перейти на'
+- '§7предыдущую страницу'
 
 HOLOGRAM_KILLS_TOP_LINES:
 - '§a§lТоп по убийствам'
