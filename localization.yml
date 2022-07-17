@@ -645,3 +645,6 @@ REGIONS_JOINED_ANOTHER_REGION: '§f[§b§lРегионы§f] §fВы §aвошл
 REGIONS_JOINED_MY: '§f[§b§lРегионы§f] §fВы вошли в §eсвой §fрегион'
 REGIONS_JOINED_TO_REGION_MEMBER: '§f[§b§lРегионы§f] §fВы §aвошли §fв регион %s%s'
 REGIONS_LEAVE_WITH_REGION: '§f[§b§lРегионы§f] §fВы §cвышли §fс региона'
+REGIONS_ALREADY_HIDE_OWNER: '§f[§b§lРегионы§f] §fВы §cуже скрыли §fникнейм владельца региона для других'
+REGIONS_NO_COINS_BUY_HIDE: '§f[§b§lРегионы§f] §fЧтобы §cскрыть никнейм §fвладельца для других, нужно §e§l150 ℙ'
+REGIONS_BUY_HIDE_SUCCESS: '§f[§b§lРегионы§f] §fВы успешно §aкупили §fскрытие ника владельца региона для других'
