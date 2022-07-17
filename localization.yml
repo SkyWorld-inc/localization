@@ -569,8 +569,10 @@ REGIONS_COMMAND_HELP:
 - '§b/ps del ник §f- добавить игрока в регион'
 - '§b/ps remove ник §f- удалить игрока с региона'
 - '§b/ps erase §f- удаляет приват'
+- '§b/ps list §f- список регионов'
+- '§b/ps lines §f- подсветить на 1.5с границы региона'
 - '§o§8* чтобы взаимодействовать с приватом, нужно'
-- '  находиться в нем'
+- '  §o§8находиться в нем'
 REGIONS_COMMAND_ADD_NO_ARGS: '§f[§b§lРегионы§f] Добавить игрока в приват - §e/ps add ник'
 REGIONS_IS_EMPTY: '§f[§b§lРегионы§f] У вас §cнет приватов§f, чтобы создать приват, вам нужны "§7блоки приватов" §f- §e/warp regions'
 REGIONS_REGION_NOT_FOUND: '§f[§b§lРегионы§f] Регион §cне найден §fв данной локации'
@@ -607,7 +609,7 @@ REGIONS_GUI_MAIN_DELETE_LORE:
 - '§cВнимание! Блок привата будет сброшен, где вы стоите'
 - ''
 - '§fНажмите, чтобы §eудалить §fрегион'
-REGIONS_GUI_MEMBERS_NAME: '§8Список участников региона (ID: %s)'
+REGIONS_GUI_MEMBERS_NAME: '§8Список участников (ID: %s)'
 REGIONS_GUI_MEMBERS_EMPTY_NAME: '§c§lПусто :('
 REGIONS_GUI_MEMBERS_EMPTY_LORE:
 - ''
@@ -621,7 +623,7 @@ REGIONS_GUI_MEMBER_BACK_LORE:
 - '§fНажмите, чтобы §eвернуться §fв меню управления'
 REGIONS_GUI_REGIONS_NAME: '§8Список регионов'
 REGIONS_GUI_REGIONS_EMPTY_NAME: '§c§lПусто :('
-REGIONS_GUI_MEMBERS_EMPTY_LORE:
+REGIONS_GUI_REGIONS_EMPTY_LORE:
 - ''
 - '§7Кажется, у вас нет регионов...'
 REGIONS_GUI_REGIONS_INFO_NAME: '§eРегион ID: %s'
@@ -640,3 +642,7 @@ REGIONS_GUI_REGIONS_INFO_LORE:
 - ''
 - '§fНажмите, чтобы §eоткрыть §fменю управления'
 REGIONS_REGION_REMOVE_BROADCAST: '§f[§b§lРегионы§f] §fРегион §7(ID: %s) §fв котором Вы находились, был §cудален'
+REGIONS_JOINED_ANOTHER_REGION: '§f[§b§lРегионы§f] §fВы §aвошли §fв регион игрока %s'
+REGIONS_JOINED_MY: '§f[§b§lРегионы§f] §fВы вошли в §eсвой §fрегион'
+REGIONS_JOINED_TO_REGION_MEMBER: '§f[§b§lРегионы§f] §fВы §aвошли §fв регион %s%s'
+REGIONS_LEAVE_WITH_REGION: '§f[§b§lРегионы§f] §fВы §cвышли §fс региона'
